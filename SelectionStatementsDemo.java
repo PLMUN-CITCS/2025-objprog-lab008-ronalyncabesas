@@ -9,11 +9,6 @@ if (studentScore >= 90) {
 } else {
    System.out.println("Keep improving!");
 }
-if (studentScore >= 90) {
-   System.out.println("Excellent performance!");
-} else {
-   System.out.println("Keep improving!");
-}
 if (studentScore >= 60) {
    if (studentScore >= 90) {
       System.out.println("Grade: A");
